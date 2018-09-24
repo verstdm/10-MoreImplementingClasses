@@ -280,6 +280,7 @@ class CapitalT(object):
         t.set_colors(self.v_rect.fill_color, self.v_rect.outline_color)
         return t
 
+
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
 # imported by another module), then call the 'main' function.
